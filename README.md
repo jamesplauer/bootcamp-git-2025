@@ -8,7 +8,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name: James Lauer**
 
-**Hobbies:**
+**Hobbies: Woodworking**
 
 ## Section 1: Your First Commit
 
